@@ -29,8 +29,6 @@ body {
 
 ul li {
   list-style: none;
-  float: left;
-  text-align: center;
   display: inline-block;
   text-align: left;
 }
@@ -48,4 +46,8 @@ header {
 a:hover {
   background-color: #0074d9;
   color: #fff;
+}
+
+.logo, .nav {
+  text-align: center;
 }
